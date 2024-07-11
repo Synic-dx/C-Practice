@@ -13,7 +13,8 @@ int main(void)
     {
         printf("ok goodbye\n ");
     }
-    else {
+    else
+    {
         printf("Ayein?\n ");
     }
 }
